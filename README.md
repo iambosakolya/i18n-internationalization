@@ -42,4 +42,3 @@ The following steps need to be implemented:
 - Basic code of the components, you'll need to add internationalization functionality
 - Files with translations (`_to-remame-translations/en.json`, `_to-remame-translations/uk.json`), you can use them
 - Placement of files is correct, but you'll need to rename some folders (they are marked with `_to-remame_ prefix`)
-# -react-13-internationalization
